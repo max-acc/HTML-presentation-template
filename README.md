@@ -7,7 +7,7 @@ But one more thing: **You should know the basics of HTML, CSS and JavaScript** t
 
 ## How to use this template?
 As already mentioned, you should know the basics of this scripts and languages to be able to use this template the proper way.
-To start the presentation just open it (after you downloaded and unpacked it). Then just click on the _start_ button and never touch the mouse again (if you do so and click somewhere, the presentation won't work anymore => this caused due to the way the logic of the presentation is implemented). After that just tap any key on your keyboard except of the _F-Keys_ or _Space_ (this would cause an unintended behaviour).
+To start the presentation just open it (after you downloaded and unpacked it). Then just click on the `start` button and **never** touch the mouse again (if you do so and click somewhere, the presentation won't work anymore => this caused due to the way the logic of the presentation is implemented). After that just tap any key on your keyboard except of the `F-Keys` or `Space` (this would cause an unintended behaviour).
 
 ## Why an online presentation?
 If you were searching for this kind of topic before, you can skip this part. But for anyone else:
